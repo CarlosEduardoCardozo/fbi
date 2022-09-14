@@ -59,9 +59,11 @@ header span {
 }
 .pesquisa input {
   padding: 3px;
+  outline: none;
 }
 header {
   background-color: #000;
+  box-shadow: 0 0 20px 0 #000;
   height: 24%;
   font-size: 1.5rem;
   color: #ffffff;
